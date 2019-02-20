@@ -1,0 +1,6 @@
+Paso 1. git clone <URL repo>
+paso 2. Moverse al repositorio
+paso 3. Agregar documentos (Trabajar sobre el mismo)
+paso 4. git add . (Agregar todos los documentos que esten en la carpeta) 
+paso 5. git commit -m "Mensaje"
+paso 6. git push origin <Branch>
